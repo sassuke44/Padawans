@@ -1,0 +1,129 @@
+
+body,html{
+    background-color:  #4C0771;
+    text-align: center;
+    margin-left: 8px;
+    margin-right:8px ;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+    .MenuPrincipal{
+        margin-top: 50%;
+        box-sizing: border-box;
+        text-align: center;
+        position: relative;
+        background-color: #494848a2;}
+      
+    
+    .MenuPrincipal a {
+       font-size: xx-large;
+       list-style: none;
+       display:list-item;
+       color: #f2f2f2;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;}
+    
+    .menu{
+      width: 100%;
+      box-sizing: border-box;
+      text-align: center;
+      position: relative;
+      background-color: #5B217B;}
+      
+    
+    .menu a {
+        display:inline-flex;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;}
+    table {
+            text-align: center;
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width:100%;
+            background-color: rgb(255, 255, 255);
+          }
+          
+          td, th {
+            
+            border: 1px solid #000000;
+            text-align: center;
+            padding: 8px;
+          }
+         
+          tr:nth-child(even) {
+            background-color: #dddddd;
+          } 
+  ul{
+    padding-inline-start:0px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+  }
+  .Menu1{
+    background-color: #54347A;
+    margin-left: 256px;
+    margin-right: 256px;
+    width: 70%;
+  
+  }
+  .Frase{
+    position: relative;
+    margin-left: 164px;
+    margin-right: 164px;
+    
+    padding: 1px;
+    background: #5B217B;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-size: 38px;
+    line-height: 59px;
+    
+
+    color: #5CAAA9;
+   
+  }
+  .Postagens{
+    margin-top: 100px;
+    position: relative;
+    margin-left: 164px;
+    margin-right: 164px;
+    
+    padding: 1px;
+    background: #5B217B;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ }
+  .Postagens a {
+  font-family: Arial, Helvetica, sans-serif;
+    
+  font-size: 50px;
+  line-height: 59px;
+  text-decoration: none;
+  color: white;
+ }
+ .Postagens1{
+  margin-top: 100px;
+  margin-bottom: 50px;
+  position: relative;
+  margin-left: 164px;
+  margin-right: 164px;
+  
+  padding: 1px;
+  background: #5B217B;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Postagens1 a {
+font-family: Arial, Helvetica, sans-serif;
+  
+font-size: 50px;
+line-height: 59px;
+text-decoration: none;
+color: white;
+}
+
